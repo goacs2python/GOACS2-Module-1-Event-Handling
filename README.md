@@ -1,4 +1,4 @@
-# GOACS2 Module 2 - Event Handling
+# GOACS2 Module 1 - Event Handling
 
 Please complete both of the programs as described on the assignment page.
 
